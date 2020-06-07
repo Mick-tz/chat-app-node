@@ -1,0 +1,12 @@
+body {
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#send-location {
+    margin-top: 10px;
+}
